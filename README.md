@@ -10,7 +10,6 @@ This project sets up an AWS Bedrock Knowledge Base integrated with an Aurora Ser
 4. [Deployment Steps](#deployment-steps)
 5. [Using the Scripts](#using-the-scripts)
 6. [Customization](#customization)
-7. [Troubleshooting](#troubleshooting)
 
 ## Project Overview
 
